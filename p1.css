@@ -1,0 +1,6 @@
+body{ background-image:url("/home/Sem6B12/Downloads/snow.jpg");
+background-repeat:repeat;
+background-attachment:fixed;
+background-attachment:scroll;
+h1{color:maroon; margin-left:40px;}
+p#pr{color:blue; margin-left:60px;}
